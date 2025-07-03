@@ -15,6 +15,4 @@ text,label
 "Your Microsoft account has been hacked","phishing"
 "Friday team lunch at 12:30 PM","legitimate"
 "Your package couldn't be delivered","phishing"
-"Your Facebook account is locked","phishing"  
-"Project deadline extended to Friday","legitimate"  
-"Your PayPal account is locked","phishing" 
+"Your Facebook account is locked","phishing" 
