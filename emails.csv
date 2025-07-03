@@ -1,0 +1,21 @@
+text,label
+"Your account needs verification click here",phishing
+"Meeting tomorrow at 10am conference room",legitimate
+"Claim your free prize now!",phishing
+"Monthly report attached for review",legitimate
+"Urgent: Your bank account is locked",phishing
+"Project update from the team",legitimate
+"Your PayPal account is suspended - verify now",phishing
+"IT: Your password expires in 3 days",legitimate
+"You have 1 unread security alert",phishing
+"HR: Benefits enrollment deadline Friday",legitimate
+"Your Netflix subscription is expiring",phishing
+"Quarterly sales report attached",legitimate
+"Verify your Apple ID immediately",phishing
+"Your Microsoft account has been hacked","phishing"
+"Friday team lunch at 12:30 PM","legitimate"
+"Your package couldn't be delivered","phishing"
+"Your Facebook account is locked","phishing"  
+"Project deadline extended to Friday","legitimate"  
+"Your PayPal account is locked","phishing"  
+"Team lunch next Friday","legitimate"  
